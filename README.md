@@ -58,5 +58,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Screenshots
 - Pokemon List + Pagination
+<img width="737" height="369" alt="image" src="https://github.com/user-attachments/assets/c33b0a9c-8357-4e0b-8461-c65b83c4080f" />
 
 - Pokemon detail page
+<img width="931" height="732" alt="image" src="https://github.com/user-attachments/assets/7748c416-b29d-4338-bf84-dc5fa6e18ea8" />
